@@ -12,7 +12,7 @@ With the current paper ballot system, we have concerns of:
 
 We propose that a blockchain system should be tested to monitor for improvements in these areas.
 
-![Our Blockchain Voting System Diagram](https://github.com/m-saylor/blockchain-based-voter-registration/blob/main/Blockchain%20Voting%20Diagram.png)
+![Our Blockchain Voting System Diagram](https://github.com/madison-nicole/blockchain-based-voter-registration/blob/main/Blockchain%20Voting%20Diagram.png)
 
 
 ## Implementation Details
